@@ -8,7 +8,6 @@ Here is a guideline to help you get started.
 ## Folder Structure
 
 - `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
 - `SQL`: the folder to maintain database
 
 ## Runtime Enviroment
